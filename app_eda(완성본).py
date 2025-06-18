@@ -1,5 +1,5 @@
 import streamlit as st
-import pyrebase4
+import pyrebase as pyrebase4
 import time
 import io
 import pandas as pd
